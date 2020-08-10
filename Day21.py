@@ -1,0 +1,1 @@
+# Unfortunately due to the nature of Day 21's challenge, I can not complete it using Python.
